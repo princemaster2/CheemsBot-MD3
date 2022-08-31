@@ -25,7 +25,7 @@ const fs = require("fs")
 const chalk = require("chalk")
 
 //aumto functioner
-global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoReadAll = true // auto reading in all pchat gc and status (true to on, false to off)
@@ -41,7 +41,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['254768371432'] //ur owner number
+global.owner = ['wa.me/254768371432'] //ur owner number
 global.ownername = "𝙋𝙍𝙄𝙉𝘾𝙀"                
 global.ytname = "YT: Xeon" //prince
 global.socialm = "GitHub: DGXeon" //ur github or insta name
@@ -49,7 +49,7 @@ global.location = "India, Mizoram, Aizawl,kenya" //ur location
 
 //bot bombdy
 global.botname = "Elina" //ur bot name
-global.websitex = "254768371432" //ur website
+global.websitex = "wa.me/254768371432" //ur website
 global.vidmenu = { url: '254768371432' } //gif and video menu
 global.packname = "𝙋𝙧𝙞𝙣𝙘𝙚 𝙢𝙖𝙙𝙚 𝙩𝙝𝙞𝙨 "              
 global.author = "prince"
