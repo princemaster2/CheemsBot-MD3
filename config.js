@@ -26,10 +26,10 @@ const chalk = require("chalk")
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = true //auto reading in gc (true to on, false to off)
-global.autoReadAll = false // auto reading in all pchat gc and status (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
+global.autoReadGc = false //auto reading in gc (true to on, false to off)
+global.autoReadAll = true // auto reading in all pchat gc and status (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //documents variants
@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['ur number'] //ur owner number
-global.ownername = "ur name"
-global.ytname = "YT: Xeon" //ur yt chanel name
+global.owner = ['wa.me/254768371432'] //ur owner number
+global.ownername = "𝙋𝙍𝙄𝙉𝘾𝙀"                
+global.𝗰𝗼𝗻𝘁𝗮𝗰𝘁 𝗼𝘄𝗻𝗲𝗿 = "https://wa.me/254768371432" //prince
 global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "kenya" //ur location
 
 //bot bombdy
-global.botname = "ur bot name" //ur bot name
-global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
-global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Xeon"
+global.botname = "Elina" //ur bot name
+global.websitex = "wa.me/254768371432" //ur website
+global.vidmenu = { url: '254768371432' } //gif and video menu
+global.packname = "𝙋𝙧𝙞𝙣𝙘𝙚 𝙢𝙖𝙙𝙚 𝙩𝙝𝙞𝙨 "              
+global.author = "prince"
 global.themeemoji = "🐶"
-global.reactmoji = "😘"
-global.ownertag = ['ur number'] //ur owner tag
-global.ownernummenu = ['ur number'] //ur owner number in menu and all
-global.watermark = "Xeon Bot Inc." //ur watermark
+global.reactmoji = "🤖"
+global.ownertag = ['254768371432'] //ur owner tag
+global.ownernummenu = ['254768371432'] //ur owner number in menu and all
+global.watermark = "𝙥𝙧𝙞𝙣𝙘𝙚 𝙢𝙖𝙙𝙚 𝙩𝙝𝙞𝙨." //ur watermark                 
 global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
-global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
-global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
+global.linkz1 = "https://chat.whatsapp.com/CabGUj28tiy30el4eMMdsV"
+global.linkz2 = "https://chat.whatsapp.com/LwndLsy32cBBEBWuXbYWbA"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -95,18 +95,18 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
     success: 'Done✓',
-    admin: 'This feature is only for admins!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This feature is only for owner',
-    group: 'This feature is only for groups!',
+    admin: 'This feature is only for admins 𝘽𝘼𝙆𝘼!',
+    botAdmin: 'Bot Must Be Admin First 𝘽𝘼𝙆𝘼!',
+    owner: 'This feature is only for owner 𝗸𝗻𝗼𝘄𝗻 𝗮𝘀 𝗽𝗿𝗶𝗻𝗰𝗲 𝘽𝘼𝙆𝘼😡',
+    group: 'This feature is only for groups 𝘽𝘼𝙆𝘼!',
     private: 'This feature is only for private chats!',
     bot: 'This feature is only for bot',
     wait: 'In process...',
-    linkm: 'Where is the link?',
+    linkm: 'Where is the link 𝘽𝘼𝙆𝘼?',
     error: 'Error!',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban'
+    ban: 'You have been banned by the owner, if you want to be unbanned, chat prince my owner wa.me/254768371432.',
+    nsfw: 'The nsfw feature has not been activated, please contact the admin or my owner to activate wa.me/254768371432 ',
+    banChat: 'The bot was banned in this group, please contact prince my owner to unban wa.me/254768371432'              
 }
 global.limitawal = {
     premium: "Infinity",
