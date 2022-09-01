@@ -15,6 +15,9 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 ------
 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝗣𝗥𝗜𝗡𝗖𝗘+𝐖𝐀+𝐁𝐎𝐓+𝐑𝐄𝐏𝐎.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝙋𝙍𝙄𝙉𝘾𝙀+𝙈𝘼𝙎𝙏𝙀𝙍+1;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝗠𝗬+𝙂𝙄𝙏+𝙒𝙃𝘼𝙏𝙎𝘼𝙋𝙋+𝙈𝙀+𝙄𝙁+𝙔𝙊𝙐+𝙉𝙀𝙀𝘿+𝙃𝙀𝙇𝙋+𝙏𝙃𝘼𝙉𝙆+𝙔𝙊𝙐)](https://git.io/typing-svg)
+                 
+
 # ```Bot Info```
 <p align="center">
 <a href="https://github.com/DGXeon/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGXeon?color=red&style=flat-square"></a>
