@@ -41,7 +41,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['wa.me/254768371432'] //ur owner number
+global.owner = ['254768371432'] //ur owner number
 global.ownername = "𝙋𝙍𝙄𝙉𝘾𝙀"                
 global.𝗰𝗼𝗻𝘁𝗮𝗰𝘁 𝗼𝘄𝗻𝗲𝗿 = "https://wa.me/254768371432" //prince
 global.socialm = "GitHub: DGXeon" //ur github or insta name
@@ -49,7 +49,7 @@ global.location = "kenya" //ur location
 
 //bot bombdy
 global.botname = "Elina" //ur bot name
-global.websitex = "wa.me/254768371432" //ur website
+global.websitex = "254768371432" //ur website
 global.vidmenu = { url: '254768371432' } //gif and video menu
 global.packname = "𝙋𝙧𝙞𝙣𝙘𝙚 𝙢𝙖𝙙𝙚 𝙩𝙝𝙞𝙨 "              
 global.author = "prince"
