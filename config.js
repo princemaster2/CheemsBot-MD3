@@ -91,7 +91,7 @@ global.ntilink = []
 //omther
 global.lolhuman = "KaysaS"
 global.sessionName = "session"
-global.antitags = true
+global.antitags = false
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
     success: 'Done✓ Thanks To Prince 🤭',
