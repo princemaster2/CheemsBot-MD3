@@ -30,7 +30,7 @@ global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to of
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoReadAll = true // auto reading in all pchat gc and status (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
-global.available = true //auto available (true to on, false to off)
+global.available = false //auto available (true to on, false to off)
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -76,7 +76,7 @@ global.ntilinkfb = []
 global.ntilinktg = []
 global.ntilinktt = []
 global.ntilinktwt = []
-global.ntilinkall = []
+global.ntilinkall = [on]
 global.nticall = []
 global.ntwame = []
 global.nttoxic = []
@@ -91,10 +91,10 @@ global.ntilink = []
 //omther
 global.lolhuman = "KaysaS"
 global.sessionName = "session"
-global.antitags = true
-global.prefa = ['','!','.']
+global.antitags = false
+global.prefa = [''.']
 global.mess = {
-    success: 'Done✓',
+    success: 'Done✓ Thanks To Prince',
     admin: 'This feature is only for admins 𝘽𝘼𝙆𝘼!',
     botAdmin: 'Bot Must Be Admin First 𝘽𝘼𝙆𝘼!',
     owner: 'This feature is only for owner 𝗸𝗻𝗼𝘄𝗻 𝗮𝘀 𝗽𝗿𝗶𝗻𝗰𝗲 𝘽𝘼𝙆𝘼😡',
