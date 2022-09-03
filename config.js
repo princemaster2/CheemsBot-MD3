@@ -76,7 +76,7 @@ global.ntilinkfb = []
 global.ntilinktg = []
 global.ntilinktt = []
 global.ntilinktwt = []
-global.ntilinkall = [on]
+global.ntilinkall = []
 global.nticall = []
 global.ntwame = []
 global.nttoxic = []
@@ -91,7 +91,7 @@ global.ntilink = []
 //omther
 global.lolhuman = "KaysaS"
 global.sessionName = "session"
-global.antitags = false
+global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
     success: 'Done✓ Thanks To Prince 🤭',
