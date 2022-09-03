@@ -29,8 +29,8 @@ global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoReadAll = true // auto reading in all pchat gc and status (true to on, false to off)
-global.autoRecord = true //auto recording (true to on, false to off)
-global.available = true //auto available (true to on, false to off)
+global.autoRecord = false //auto recording (true to on, false to off)
+global.available = false //auto available (true to on, false to off)
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -43,7 +43,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.owner = ['wa.me/254768371432'] //ur owner number
 global.ownername = "𝙋𝙍𝙄𝙉𝘾𝙀"                
-global.yts = "https://wa.me/254768371432" //prince
+global.yts = "github.com/princemaster1" //prince
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "kenya" //ur location
 
@@ -54,7 +54,7 @@ global.vidmenu = { url: '254768371432' } //gif and video menu
 global.packname = "𝙋𝙧𝙞𝙣𝙘𝙚 𝙢𝙖𝙙𝙚 𝙩𝙝𝙞𝙨 "              
 global.author = "prince"
 global.themeemoji = "🐶"
-global.reactmoji = "🤖"
+global.reactmoji = "⚙️"
 global.ownertag = ['254768371432'] //ur owner tag
 global.ownernummenu = ['254768371432'] //ur owner number in menu and all
 global.watermark = "𝙥𝙧𝙞𝙣𝙘𝙚 𝙢𝙖𝙙𝙚 𝙩𝙝𝙞𝙨." //ur watermark                 
@@ -91,10 +91,10 @@ global.ntilink = []
 //omther
 global.lolhuman = "KaysaS"
 global.sessionName = "session"
-global.antitags = true
+global.antitags = false
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
-    success: 'Done✓',
+    success: 'Done✓ Thanks To Prince 🤭',
     admin: 'This feature is only for admins 𝘽𝘼𝙆𝘼!',
     botAdmin: 'Bot Must Be Admin First 𝘽𝘼𝙆𝘼!',
     owner: 'This feature is only for owner 𝗸𝗻𝗼𝘄𝗻 𝗮𝘀 𝗽𝗿𝗶𝗻𝗰𝗲 𝘽𝘼𝙆𝘼😡',
